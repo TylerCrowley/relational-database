@@ -1,3 +1,5 @@
+CS582 - Advanced Databse Systems
+
 Set up instructions:
     1. Download and launch MySQL (https://www.mysql.com/)
     2. Run the command "source <PATH/TO/FILE>/setup.sql"
